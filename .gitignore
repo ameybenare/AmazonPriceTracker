@@ -1,0 +1,10 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Ignore environment files
+Configuration.env
+
+# Ignore log files
+price_tracker.log 
